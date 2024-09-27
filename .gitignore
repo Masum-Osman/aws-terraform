@@ -1,0 +1,8 @@
+# Ignore Terraform providers directory
+envs/dev/.terraform/
+
+# Ignore all Terraform provider binaries
+*.zip
+*.tar.gz
+*.dll
+*.so
