@@ -1,6 +1,3 @@
-Here’s a sample README.md for your Terraform project. You can customize it further as needed:
-
-```markdown
 # Terraform AWS Infrastructure
 
 ## Overview
@@ -90,7 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 Thanks to Terraform and AWS for providing powerful tools to manage infrastructure as code!
-
-```
-
-Feel free to modify any sections according to your project's specifics or your preferences! If you need anything else, just let me know.
